@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//air-alert//wingfoil wind calendar//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wingfoil — Grand vent
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:🪂 Vent fort — Plaine de Mazerolles (Sucé-sur-Erdre) (15-15 n
+ ds NNW)
+DTSTART:20260915T170000Z
+DTEND:20260915T180000Z
+DTSTAMP:20260912T085017Z
+UID:ff539f8dcd606c512aa8ab45d436b25a0c82c8d9@air-alert
+DESCRIPTION:Vent prévu : 15-15 nds\, direction moyenne NNW.\nRafales max 
+ : 26 nds.\nPrévision Windy générée le 2026-09-12T08:50:17.879088+00:00
+ .
+LOCATION:Plaine de Mazerolles (Sucé-sur-Erdre)
+END:VEVENT
+END:VCALENDAR
