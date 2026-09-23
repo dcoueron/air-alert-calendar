@@ -5,4 +5,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Wingfoil — Grand vent
 X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (14-16 n
+ ds SSW)
+DTSTART:20260929T030000Z
+DTEND:20260929T110000Z
+DTSTAMP:20260923T095859Z
+UID:5eafdf19a7463af7cd18d053acc22a324e5ae22b@air-alert
+ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/sai
+ nt-brevin-les-pins-les-rochelets.png
+DESCRIPTION:Vent prévu : 14-16 nds\, direction moyenne SSW.\nRafales max 
+ : 36 nds.\nPrévision Open-Meteo générée le 2026-09-23T09:58:59.912354+
+ 00:00.\nGraphique complet de la prévision : https://dcoueron.github.io/ai
+ r-alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https
+ ://www.windguru.cz/48509
+LOCATION:Saint-Brévin-les-Pins (Les Rochelets)
+END:VEVENT
 END:VCALENDAR
