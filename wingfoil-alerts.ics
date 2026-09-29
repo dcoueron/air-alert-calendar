@@ -6,64 +6,48 @@ METHOD:PUBLISH
 X-WR-CALNAME:Wingfoil — Grand vent
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (14-14 n
- ds SSW)
-DTSTART:20260930T010000Z
-DTEND:20260930T020000Z
-DTSTAMP:20260929T112210Z
-UID:6e3b98644ad7dea8cfec45c3c6c23c598c4248f2@air-alert
+SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (20-20 n
+ ds S)
+DTSTART:20260929T230000Z
+DTEND:20260930T000000Z
+DTSTAMP:20260929T212244Z
+UID:310199aa628dfb1d21f57d51c5a4f8bea7c9c5e7@air-alert
 ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/sai
  nt-brevin-les-pins-les-rochelets.png
-DESCRIPTION:Vent prévu : 14-14 nds\, direction moyenne SSW.\nRafales max 
- : 25 nds.\nPrévision Open-Meteo générée le 2026-09-29T11:22:10.275155+
- 00:00.\nGraphique complet de la prévision : https://dcoueron.github.io/ai
- r-alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https
- ://www.windguru.cz/48509
+DESCRIPTION:Vent prévu : 20-20 nds\, direction moyenne S.\nRafales max : 
+ 25 nds.\nPrévision Open-Meteo générée le 2026-09-29T21:22:44.791830+00
+ :00.\nGraphique complet de la prévision : https://dcoueron.github.io/air-
+ alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https:/
+ /www.windguru.cz/48509
 LOCATION:Saint-Brévin-les-Pins (Les Rochelets)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (14-14 n
- ds SW)
+SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (13-14 n
+ ds SSW)
 DTSTART:20260930T140000Z
-DTEND:20260930T150000Z
-DTSTAMP:20260929T112210Z
+DTEND:20260930T160000Z
+DTSTAMP:20260929T212244Z
 UID:5e8fb8d27dd21c67b6fa6b694acf28daea64a5bd@air-alert
 ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/sai
  nt-brevin-les-pins-les-rochelets.png
-DESCRIPTION:Vent prévu : 14-14 nds\, direction moyenne SW.\nRafales max :
-  22 nds.\nPrévision Open-Meteo générée le 2026-09-29T11:22:10.275155+0
- 0:00.\nGraphique complet de la prévision : https://dcoueron.github.io/air
- -alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https:
- //www.windguru.cz/48509
-LOCATION:Saint-Brévin-les-Pins (Les Rochelets)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (14-14 n
- ds WSW)
-DTSTART:20260930T210000Z
-DTEND:20260930T220000Z
-DTSTAMP:20260929T112210Z
-UID:6fd8e880bfcab2bf6dbf945e5738324fc03c3ced@air-alert
-ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/sai
- nt-brevin-les-pins-les-rochelets.png
-DESCRIPTION:Vent prévu : 14-14 nds\, direction moyenne WSW.\nRafales max 
- : 25 nds.\nPrévision Open-Meteo générée le 2026-09-29T11:22:10.275155+
+DESCRIPTION:Vent prévu : 13-14 nds\, direction moyenne SSW.\nRafales max 
+ : 22 nds.\nPrévision Open-Meteo générée le 2026-09-29T21:22:44.791830+
  00:00.\nGraphique complet de la prévision : https://dcoueron.github.io/ai
  r-alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https
  ://www.windguru.cz/48509
 LOCATION:Saint-Brévin-les-Pins (Les Rochelets)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Plaine de Mazerolles (Sucé-sur-Erdre) (14-14 n
+SUMMARY:🪂 Vent fort — Plaine de Mazerolles (Sucé-sur-Erdre) (13-14 n
  ds S)
-DTSTART:20260929T150000Z
-DTEND:20260929T160000Z
-DTSTAMP:20260929T112210Z
-UID:0040121d2a12927a0ff9ad2f7eb72356a8d6e388@air-alert
+DTSTART:20260929T130000Z
+DTEND:20260929T170000Z
+DTSTAMP:20260929T212244Z
+UID:abab05f11aaa2bf9f5572783e5cf828e4c58cf07@air-alert
 ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/pla
  ine-de-mazerolles-suce-sur-erdre.png
-DESCRIPTION:Vent prévu : 14-14 nds\, direction moyenne S.\nRafales max : 
- 24 nds.\nPrévision Open-Meteo générée le 2026-09-29T11:22:10.275155+00
+DESCRIPTION:Vent prévu : 13-14 nds\, direction moyenne S.\nRafales max : 
+ 24 nds.\nPrévision Open-Meteo générée le 2026-09-29T21:22:44.791830+00
  :00.\nGraphique complet de la prévision : https://dcoueron.github.io/air-
  alert-calendar/plaine-de-mazerolles-suce-sur-erdre.png\nWindguru : https:/
  /www.windguru.cz/1304551
