@@ -6,83 +6,19 @@ METHOD:PUBLISH
 X-WR-CALNAME:Wingfoil — Grand vent
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (14-18 n
- ds SSW)
-DTSTART:20260930T030000Z
-DTEND:20260930T050000Z
-DTSTAMP:20260930T212439Z
-UID:c31e4f47ad730c85e2dbac1598d348a93021f9c4@air-alert
+SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (13-14 n
+ ds WSW)
+DTSTART:20261001T000000Z
+DTEND:20261001T030000Z
+DTSTAMP:20261001T113710Z
+UID:73c1112a202ff77f089ba853345d3cd108e2ae56@air-alert
 ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/sai
  nt-brevin-les-pins-les-rochelets.png
-DESCRIPTION:Vent prévu : 14-18 nds\, direction moyenne SSW.\nRafales max 
- : 24 nds.\nPrévision Open-Meteo générée le 2026-09-30T21:24:39.849008+
+DESCRIPTION:Vent prévu : 13-14 nds\, direction moyenne WSW.\nRafales max 
+ : 18 nds.\nPrévision Open-Meteo générée le 2026-10-01T11:37:10.097037+
  00:00.\nGraphique complet de la prévision : https://dcoueron.github.io/ai
  r-alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https
  ://www.windguru.cz/48509
-LOCATION:Saint-Brévin-les-Pins (Les Rochelets)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (14-14 n
- ds SSW)
-DTSTART:20260930T110000Z
-DTEND:20260930T120000Z
-DTSTAMP:20260930T212439Z
-UID:b59c428f928aa6595970eae068cdb3329ba99679@air-alert
-ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/sai
- nt-brevin-les-pins-les-rochelets.png
-DESCRIPTION:Vent prévu : 14-14 nds\, direction moyenne SSW.\nRafales max 
- : 22 nds.\nPrévision Open-Meteo générée le 2026-09-30T21:24:39.849008+
- 00:00.\nGraphique complet de la prévision : https://dcoueron.github.io/ai
- r-alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https
- ://www.windguru.cz/48509
-LOCATION:Saint-Brévin-les-Pins (Les Rochelets)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (14-17 n
- ds SSW)
-DTSTART:20260930T130000Z
-DTEND:20260930T180000Z
-DTSTAMP:20260930T212439Z
-UID:9ecde89e93d6471131720707dc8a00d0de88abf3@air-alert
-ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/sai
- nt-brevin-les-pins-les-rochelets.png
-DESCRIPTION:Vent prévu : 14-17 nds\, direction moyenne SSW.\nRafales max 
- : 22 nds.\nPrévision Open-Meteo générée le 2026-09-30T21:24:39.849008+
- 00:00.\nGraphique complet de la prévision : https://dcoueron.github.io/ai
- r-alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https
- ://www.windguru.cz/48509
-LOCATION:Saint-Brévin-les-Pins (Les Rochelets)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (14-14 n
- ds SW)
-DTSTART:20260930T190000Z
-DTEND:20260930T200000Z
-DTSTAMP:20260930T212439Z
-UID:596c57a0eeea313f9def556a84078edab94a29ea@air-alert
-ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/sai
- nt-brevin-les-pins-les-rochelets.png
-DESCRIPTION:Vent prévu : 14-14 nds\, direction moyenne SW.\nRafales max :
-  16 nds.\nPrévision Open-Meteo générée le 2026-09-30T21:24:39.849008+0
- 0:00.\nGraphique complet de la prévision : https://dcoueron.github.io/air
- -alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https:
- //www.windguru.cz/48509
-LOCATION:Saint-Brévin-les-Pins (Les Rochelets)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (14-17 n
- ds W)
-DTSTART:20260930T230000Z
-DTEND:20261001T010000Z
-DTSTAMP:20260930T212439Z
-UID:74f66d0c184b6676b3cf8f7ccbec321d120c9b8c@air-alert
-ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/sai
- nt-brevin-les-pins-les-rochelets.png
-DESCRIPTION:Vent prévu : 14-17 nds\, direction moyenne W.\nRafales max : 
- 25 nds.\nPrévision Open-Meteo générée le 2026-09-30T21:24:39.849008+00
- :00.\nGraphique complet de la prévision : https://dcoueron.github.io/air-
- alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https:/
- /www.windguru.cz/48509
 LOCATION:Saint-Brévin-les-Pins (Les Rochelets)
 END:VEVENT
 END:VCALENDAR
