@@ -6,35 +6,19 @@ METHOD:PUBLISH
 X-WR-CALNAME:Wingfoil — Grand vent
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (14-21 n
- ds WSW)
-DTSTART:20261009T040000Z
-DTEND:20261010T000000Z
-DTSTAMP:20261009T213905Z
-UID:0a90449b700c9733dda58aac6bfc0933b54036b4@air-alert
+SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (14-14 n
+ ds WNW)
+DTSTART:20261010T000000Z
+DTEND:20261010T010000Z
+DTSTAMP:20261010T111057Z
+UID:e783719e2a2ed13c806b9d2ed600eb898bc9dbce@air-alert
 ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/sai
  nt-brevin-les-pins-les-rochelets.png
-DESCRIPTION:Vent prévu : 14-21 nds\, direction moyenne WSW.\nRafales max 
- : 26 nds.\nPrévision Open-Meteo générée le 2026-10-09T21:39:05.627806+
+DESCRIPTION:Vent prévu : 14-14 nds\, direction moyenne WNW.\nRafales max 
+ : 24 nds.\nPrévision Open-Meteo générée le 2026-10-10T11:10:57.941798+
  00:00.\nGraphique complet de la prévision : https://dcoueron.github.io/ai
  r-alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https
  ://www.windguru.cz/48509
 LOCATION:Saint-Brévin-les-Pins (Les Rochelets)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Plaine de Mazerolles (Sucé-sur-Erdre) (13-13 n
- ds WSW)
-DTSTART:20261009T160000Z
-DTEND:20261009T170000Z
-DTSTAMP:20261009T213905Z
-UID:40f388b4ca58908e05c778c211c8e87982d2e3b5@air-alert
-ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/pla
- ine-de-mazerolles-suce-sur-erdre.png
-DESCRIPTION:Vent prévu : 13-13 nds\, direction moyenne WSW.\nRafales max 
- : 22 nds.\nPrévision Open-Meteo générée le 2026-10-09T21:39:05.627806+
- 00:00.\nGraphique complet de la prévision : https://dcoueron.github.io/ai
- r-alert-calendar/plaine-de-mazerolles-suce-sur-erdre.png\nWindguru : https
- ://www.windguru.cz/1304551
-LOCATION:Plaine de Mazerolles (Sucé-sur-Erdre)
 END:VEVENT
 END:VCALENDAR
