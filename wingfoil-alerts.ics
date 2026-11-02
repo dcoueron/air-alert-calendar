@@ -8,14 +8,14 @@ X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:🪂 Vent fort — Plaine de Mazerolles (Sucé-sur-Erdre) (13-13 n
  ds NE)
-DTSTART:20261102T200000Z
-DTEND:20261102T210000Z
-DTSTAMP:20261101T210954Z
-UID:14e89923c45d809ac5e8c391be0d0d87a93813b0@air-alert
+DTSTART:20261103T130000Z
+DTEND:20261103T150000Z
+DTSTAMP:20261102T132924Z
+UID:6c3583bff3aaf1867e0efd822e654af5ba60fbc1@air-alert
 ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/pla
  ine-de-mazerolles-suce-sur-erdre.png
 DESCRIPTION:Vent prévu : 13-13 nds\, direction moyenne NE.\nRafales max :
-  24 nds.\nPrévision Open-Meteo générée le 2026-11-01T21:09:54.714750+0
+  23 nds.\nPrévision Open-Meteo générée le 2026-11-02T13:29:24.029557+0
  0:00.\nGraphique complet de la prévision : https://dcoueron.github.io/air
  -alert-calendar/plaine-de-mazerolles-suce-sur-erdre.png\nWindguru : https:
  //www.windguru.cz/1304551
