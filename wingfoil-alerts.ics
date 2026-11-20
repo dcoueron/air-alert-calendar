@@ -6,35 +6,67 @@ METHOD:PUBLISH
 X-WR-CALNAME:Wingfoil — Grand vent
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (13-26 n
+SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (14-26 n
  ds W)
 DTSTART:20261120T000000Z
-DTEND:20261120T180000Z
-DTSTAMP:20261120T135957Z
+DTEND:20261120T200000Z
+DTSTAMP:20261120T230320Z
 UID:ebd7df775c4191810e74523cf969374acbd438af@air-alert
 ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/sai
  nt-brevin-les-pins-les-rochelets.png
-DESCRIPTION:Vent prévu : 13-26 nds\, direction moyenne W.\nRafales max : 
- 34 nds.\nPrévision Open-Meteo générée le 2026-11-20T13:59:57.250816+00
+DESCRIPTION:Vent prévu : 14-26 nds\, direction moyenne W.\nRafales max : 
+ 34 nds.\nPrévision Open-Meteo générée le 2026-11-20T23:03:20.558591+00
  :00.\nGraphique complet de la prévision : https://dcoueron.github.io/air-
  alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https:/
  /www.windguru.cz/48509
 LOCATION:Saint-Brévin-les-Pins (Les Rochelets)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (14-24 n
- ds W)
-DTSTART:20261122T020000Z
-DTEND:20261123T010000Z
-DTSTAMP:20261120T135957Z
-UID:99f5453b0a440107447e139ba0208f8ca1289def@air-alert
+SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (19-19 n
+ ds WSW)
+DTSTART:20261122T030000Z
+DTEND:20261122T040000Z
+DTSTAMP:20261120T230320Z
+UID:4c690fb21e9760adaf68be5deae4e6524a09691c@air-alert
 ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/sai
  nt-brevin-les-pins-les-rochelets.png
-DESCRIPTION:Vent prévu : 14-24 nds\, direction moyenne W.\nRafales max : 
- 38 nds.\nPrévision Open-Meteo générée le 2026-11-20T13:59:57.250816+00
- :00.\nGraphique complet de la prévision : https://dcoueron.github.io/air-
- alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https:/
- /www.windguru.cz/48509
+DESCRIPTION:Vent prévu : 19-19 nds\, direction moyenne WSW.\nRafales max 
+ : 36 nds.\nPrévision Open-Meteo générée le 2026-11-20T23:03:20.558591+
+ 00:00.\nGraphique complet de la prévision : https://dcoueron.github.io/ai
+ r-alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https
+ ://www.windguru.cz/48509
+LOCATION:Saint-Brévin-les-Pins (Les Rochelets)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (13-24 n
+ ds WNW)
+DTSTART:20261122T050000Z
+DTEND:20261123T030000Z
+DTSTAMP:20261120T230320Z
+UID:2261893a970f57e1a61791eb2792c74ca6637217@air-alert
+ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/sai
+ nt-brevin-les-pins-les-rochelets.png
+DESCRIPTION:Vent prévu : 13-24 nds\, direction moyenne WNW.\nRafales max 
+ : 38 nds.\nPrévision Open-Meteo générée le 2026-11-20T23:03:20.558591+
+ 00:00.\nGraphique complet de la prévision : https://dcoueron.github.io/ai
+ r-alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https
+ ://www.windguru.cz/48509
+LOCATION:Saint-Brévin-les-Pins (Les Rochelets)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Vent fort — Saint-Brévin-les-Pins (Les Rochelets) (14-14 n
+ ds SW)
+DTSTART:20261124T170000Z
+DTEND:20261124T190000Z
+DTSTAMP:20261120T230320Z
+UID:ec22d5d5b1c8233d8df46d52ce5570bd57f38b84@air-alert
+ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/sai
+ nt-brevin-les-pins-les-rochelets.png
+DESCRIPTION:Vent prévu : 14-14 nds\, direction moyenne SW.\nRafales max :
+  23 nds.\nPrévision Open-Meteo générée le 2026-11-20T23:03:20.558591+0
+ 0:00.\nGraphique complet de la prévision : https://dcoueron.github.io/air
+ -alert-calendar/saint-brevin-les-pins-les-rochelets.png\nWindguru : https:
+ //www.windguru.cz/48509
 LOCATION:Saint-Brévin-les-Pins (Les Rochelets)
 END:VEVENT
 BEGIN:VEVENT
@@ -42,44 +74,76 @@ SUMMARY:🪂 Vent fort — Plaine de Mazerolles (Sucé-sur-Erdre) (13-13 n
  ds SW)
 DTSTART:20261120T030000Z
 DTEND:20261120T040000Z
-DTSTAMP:20261120T135957Z
+DTSTAMP:20261120T230320Z
 UID:30efaa1bfdccae481b7fa038a621a59969dbd2c1@air-alert
 ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/pla
  ine-de-mazerolles-suce-sur-erdre.png
 DESCRIPTION:Vent prévu : 13-13 nds\, direction moyenne SW.\nRafales max :
-  23 nds.\nPrévision Open-Meteo générée le 2026-11-20T13:59:57.250816+0
+  23 nds.\nPrévision Open-Meteo générée le 2026-11-20T23:03:20.558591+0
  0:00.\nGraphique complet de la prévision : https://dcoueron.github.io/air
  -alert-calendar/plaine-de-mazerolles-suce-sur-erdre.png\nWindguru : https:
  //www.windguru.cz/1304551
 LOCATION:Plaine de Mazerolles (Sucé-sur-Erdre)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Plaine de Mazerolles (Sucé-sur-Erdre) (14-18 n
+SUMMARY:🪂 Vent fort — Plaine de Mazerolles (Sucé-sur-Erdre) (13-18 n
  ds W)
 DTSTART:20261120T090000Z
-DTEND:20261120T160000Z
-DTSTAMP:20261120T135957Z
+DTEND:20261120T170000Z
+DTSTAMP:20261120T230320Z
 UID:9d892a18df440903b27fcd8e2977102ccdd78586@air-alert
 ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/pla
  ine-de-mazerolles-suce-sur-erdre.png
-DESCRIPTION:Vent prévu : 14-18 nds\, direction moyenne W.\nRafales max : 
- 33 nds.\nPrévision Open-Meteo générée le 2026-11-20T13:59:57.250816+00
+DESCRIPTION:Vent prévu : 13-18 nds\, direction moyenne W.\nRafales max : 
+ 33 nds.\nPrévision Open-Meteo générée le 2026-11-20T23:03:20.558591+00
  :00.\nGraphique complet de la prévision : https://dcoueron.github.io/air-
  alert-calendar/plaine-de-mazerolles-suce-sur-erdre.png\nWindguru : https:/
  /www.windguru.cz/1304551
 LOCATION:Plaine de Mazerolles (Sucé-sur-Erdre)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🪂 Vent fort — Plaine de Mazerolles (Sucé-sur-Erdre) (13-18 n
+SUMMARY:🪂 Vent fort — Plaine de Mazerolles (Sucé-sur-Erdre) (14-20 n
  ds W)
 DTSTART:20261122T070000Z
-DTEND:20261122T190000Z
-DTSTAMP:20261120T135957Z
+DTEND:20261122T150000Z
+DTSTAMP:20261120T230320Z
 UID:344881dccd865d7f195735cb468b9f7f69186564@air-alert
 ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/pla
  ine-de-mazerolles-suce-sur-erdre.png
-DESCRIPTION:Vent prévu : 13-18 nds\, direction moyenne W.\nRafales max : 
- 30 nds.\nPrévision Open-Meteo générée le 2026-11-20T13:59:57.250816+00
+DESCRIPTION:Vent prévu : 14-20 nds\, direction moyenne W.\nRafales max : 
+ 33 nds.\nPrévision Open-Meteo générée le 2026-11-20T23:03:20.558591+00
+ :00.\nGraphique complet de la prévision : https://dcoueron.github.io/air-
+ alert-calendar/plaine-de-mazerolles-suce-sur-erdre.png\nWindguru : https:/
+ /www.windguru.cz/1304551
+LOCATION:Plaine de Mazerolles (Sucé-sur-Erdre)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Vent fort — Plaine de Mazerolles (Sucé-sur-Erdre) (13-13 n
+ ds W)
+DTSTART:20261122T160000Z
+DTEND:20261122T170000Z
+DTSTAMP:20261120T230320Z
+UID:86f576d6b7cff1ed2f5c63ff6ad399b5e4bfecdb@air-alert
+ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/pla
+ ine-de-mazerolles-suce-sur-erdre.png
+DESCRIPTION:Vent prévu : 13-13 nds\, direction moyenne W.\nRafales max : 
+ 26 nds.\nPrévision Open-Meteo générée le 2026-11-20T23:03:20.558591+00
+ :00.\nGraphique complet de la prévision : https://dcoueron.github.io/air-
+ alert-calendar/plaine-de-mazerolles-suce-sur-erdre.png\nWindguru : https:/
+ /www.windguru.cz/1304551
+LOCATION:Plaine de Mazerolles (Sucé-sur-Erdre)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪂 Vent fort — Plaine de Mazerolles (Sucé-sur-Erdre) (13-13 n
+ ds W)
+DTSTART:20261122T180000Z
+DTEND:20261122T230000Z
+DTSTAMP:20261120T230320Z
+UID:0f1f53949169a94e8d3774e03e607f3930ad47b4@air-alert
+ATTACH;FMTTYPE=image/png:https://dcoueron.github.io/air-alert-calendar/pla
+ ine-de-mazerolles-suce-sur-erdre.png
+DESCRIPTION:Vent prévu : 13-13 nds\, direction moyenne W.\nRafales max : 
+ 22 nds.\nPrévision Open-Meteo générée le 2026-11-20T23:03:20.558591+00
  :00.\nGraphique complet de la prévision : https://dcoueron.github.io/air-
  alert-calendar/plaine-de-mazerolles-suce-sur-erdre.png\nWindguru : https:/
  /www.windguru.cz/1304551
